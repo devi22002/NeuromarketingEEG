@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+Data-EEG-25-users-Neuromarketing/
+ml-env/
+venv/
+model.h5
+scaler.pkl
