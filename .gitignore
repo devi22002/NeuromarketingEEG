@@ -4,5 +4,3 @@ __pycache__/
 Data-EEG-25-users-Neuromarketing/
 ml-env/
 venv/
-model.h5
-scaler.pkl
